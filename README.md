@@ -232,35 +232,35 @@
       </p>
     </div>
   </div>
-  
+
   <!-- Experience -->
-<div style="width: 45%; min-width: 300px; background-color: rgba(255, 0, 255, 0.1); border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 0 0 15px #FF00FF;">
-  <h3 style="color:#00FFFF;">💼 EXPERIENCE</h3>
-  <div style="text-align: left; margin-top: 15px;">
-    <p style="margin-bottom: 10px;">
-      <span style="color:#00FF99; font-weight: bold;">Cybersecurity Specialist</span><br>
-      NIIT, Chennai | June – December 2024
-    </p>
-    <ul style="list-style-type: none; padding-left: 5px; margin-bottom: 15px;">
-      <li>• <span style="color:#00FFFF;">Linux System Administration Advanced</span></li>
-      <li>• <span style="color:#00FFFF;">Programming and Scripting in Python</span></li>
-      <li>• <span style="color:#00FFFF;">Network Security and TCP/IP</span></li>
-      <li>• <span style="color:#00FFFF;">Ethical Hacking & Penetration Testing</span></li>
-      <li>• <span style="color:#00FFFF;">Cloud Computing and Containerization</span></li>
-    </ul>
-    
-    <p style="margin-bottom: 10px;">
-      <span style="color:#00FF99; font-weight: bold;">Web Design Intern</span><br>
-      Asia University, Taiwan | January 2023 – June 2023
-    </p>
-    <ul style="list-style-type: none; padding-left: 5px;">
-      <li>• <span style="color:#00FFFF;">Developed responsive and secure websites</span></li>
-      <li>• <span style="color:#00FFFF;">Implemented security best practices</span></li>
-      <li>• <span style="color:#00FFFF;">Created user-friendly interfaces</span></li>
-      <li>• <span style="color:#00FFFF;">Optimized website performance</span></li>
-    </ul>
+  <div style="width: 45%; min-width: 300px; background-color: rgba(255, 0, 255, 0.1); border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 0 0 15px #FF00FF;">
+    <h3 style="color:#00FFFF;">💼 EXPERIENCE</h3>
+    <div style="text-align: left; margin-top: 15px;">
+      <p style="margin-bottom: 10px;">
+        <span style="color:#00FF99; font-weight: bold;">Cybersecurity Specialist</span><br>
+        NIIT, Chennai | June – December 2024
+      </p>
+      <ul style="list-style-type: none; padding-left: 5px; margin-bottom: 15px;">
+        <li>• <span style="color:#00FFFF;">Linux System Administration Advanced</span></li>
+        <li>• <span style="color:#00FFFF;">Programming and Scripting in Python</span></li>
+        <li>• <span style="color:#00FFFF;">Network Security and TCP/IP</span></li>
+        <li>• <span style="color:#00FFFF;">Ethical Hacking & Penetration Testing</span></li>
+        <li>• <span style="color:#00FFFF;">Cloud Computing and Containerization</span></li>
+      </ul>
+      
+      <p style="margin-bottom: 10px;">
+        <span style="color:#00FF99; font-weight: bold;">Web Design Intern</span><br>
+        Asia University, Taiwan | January 2023 – June 2023
+      </p>
+      <ul style="list-style-type: none; padding-left: 5px;">
+        <li>• <span style="color:#00FFFF;">Developed responsive and secure websites</span></li>
+        <li>• <span style="color:#00FFFF;">Implemented security best practices</span></li>
+        <li>• <span style="color:#00FFFF;">Created user-friendly interfaces</span></li>
+        <li>• <span style="color:#00FFFF;">Optimized website performance</span></li>
+      </ul>
+    </div>
   </div>
-</div>
 </div>
 
 <!-- Matrix-style animated banner -->
