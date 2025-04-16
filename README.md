@@ -65,7 +65,7 @@ I am a Bachelor of Engineering in Cyber Security graduate from Paavai Engineerin
 - Robotic Process Automation (RPA) - 2022
 - Certified AppSec Practitioner (CAP) - 2024
 - Certified Network Security Practitioner (CNSP) – 2024
-- Cybersecurity Specialist from NIIT - 2024
+- Cybersecurity Specialist - 2024
 
 
 ## 🌐 Connect with Me
