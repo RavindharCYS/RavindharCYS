@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=PENETRATION+TESTER;NETWORK+SECURITY;WEB+SECURITY+RESEARCHER;DIGITAL+FORTRESS+BUILDER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=PENETRATION+TESTING+SPECIALIST;NETWORK+SECURITY+EXPERT;WEB+SECURITY+RESEARCHER;DIGITAL+FORTRESS+BUILDER" alt="Typing SVG" />
 </div>
 
 <!-- Neon Social Links -->
@@ -113,12 +113,16 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindharcys&theme=radical&hide_border=true&background=0D1117&stroke=00FF99&ring=00FFFF&fire=FF00FF&currStreakNum=FFFFFF&sideNums=00FF99&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=FFFFFF" alt="GitHub Streak" />
+  <a href="https://github.com/RavindharCYS">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ravindharcys&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ravindharcys&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=FFFFFF"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravindharcys&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF" alt="Ravindhar's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindharcys&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=FFFFFF" alt="Top Languages" />
+  <a href="https://github.com/RavindharCYS">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindharcys&theme=radical&hide_border=true&background=0D1117&stroke=00FF99&ring=00FFFF&fire=FF00FF&currStreakNum=FFFFFF&sideNums=00FF99&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=FFFFFF" alt="GitHub Streak" />
+  </a>
 </div>
 
 <!-- Matrix-style animated banner -->
