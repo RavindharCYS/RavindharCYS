@@ -67,10 +67,6 @@ I am a Bachelor of Engineering in Cyber Security graduate from Paavai Engineerin
 - Certified Network Security Practitioner (CNSP) – 2024
 - Cybersecurity Specialist from NIIT - 2024
 
-## 📚 Training
-- **Cybersecurity Specialist**  
-  NIIT, Chennai | June – December 2024  
-  - Covered courses: Linux System Administration, Python Programming, TCP/IP Networking, Advanced Linux, Cloud Computing, Ethical Hacking, Information Security Systems, and more.
 
 ## 🌐 Connect with Me
 - **Portfolio**: [https://ravindharcys.github.io/Portfolio](https://ravindharcys.github.io/Portfolio)
