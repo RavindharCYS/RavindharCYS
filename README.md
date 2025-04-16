@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=PENETRATION+TESTING+SPECIALIST;NETWORK+SECURITY+EXPERT;WEB+SECURITY+RESEARCHER;DIGITAL+FORTRESS+BUILDER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=PENETRATION+TESTER;NETWORK+SECURITY;WEB+SECURITY+RESEARCHER;DIGITAL+FORTRESS+BUILDER" alt="Typing SVG" />
 </div>
 
 <!-- Neon Social Links -->
