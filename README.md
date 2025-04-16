@@ -1,76 +1,127 @@
-# Ravindhar V - Cybersecurity Engineer
+<h1 align="center">Hello! I'm Ravindhar V</h1>
+<h2 align="center">Cybersecurity Engineer passionate about digital defense 🛡️</h2>
+<p align="center"><em>I love open source and building secure solutions</em></p>
 
-Welcome to my portfolio! I am a passionate and detail-oriented Cybersecurity Engineer with expertise in penetration testing, network security, and IoT solutions. This site showcases my skills, projects, and experience. Feel free to explore and connect with me for collaborations or opportunities.
+<hr>
 
-## 📌 About Me
-I am a Bachelor of Engineering in Cyber Security graduate from Paavai Engineering College, Namakkal, with a strong foundation in cybersecurity practices. I am skilled in penetration testing, vulnerability assessment, incident response, and network diagnostics. My goal is to contribute to a forward-thinking organization while continuously expanding my expertise in cyber forensics, SOC operations, and incident response.
+<p>I'm a self-taught passionate Cybersecurity Engineer from India 🇮🇳</p>
 
-## 🚀 Skills
+<h2>About me</h2>
 
-### Technical Skills
-- **Programming Languages**: Python, C, C++, Java
-- **Tools & Frameworks**: Wireshark, Metasploit, RouterSploit, Hydra, Burp Suite, John the Ripper, OpenLDAP, JXplorer, Bettercap, OWASP ZAP, WAZUH, Splunk
-- **Operating Systems**: Linux (Red Hat, Ubuntu, Kali Linux), MacOS, Windows
-- **Cloud Platforms**: AWS, Hyper-V, Zabbix
+<ul>
+  <li>💼 Cybersecurity Engineer with expertise in penetration testing and network security</li>
+  <li>🔍 Bachelor of Engineering in Cyber Security from Paavai Engineering College</li>
+  <li>🚀 Built Sentinel-Site, Eco-Inverter, and Password Authenticator projects</li>
+  <li>❤️ I love working with Python and developing security tools</li>
+  <li>💬 Ask me about anything <a href="https://linkedin.com/in/ravindhar-cy">here</a></li>
+</ul>
 
-### Cybersecurity Skills
-- Penetration Testing
-- Vulnerability Assessment
-- Incident Response
-- Network Diagnostics
-- Logwatch Implementation
+<h2>🛠️ Skills & Tools</h2>
 
-### Soft Skills
-- Strong problem-solving skills
-- Attention to detail
-- Teamwork
-- Effective communication
-- Adaptability
-- Critical thinking
+<div align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Burp_Suite-FF6347?style=for-the-badge&logo=burp-suite&logoColor=white" />
+</div>
 
-## 🎓 Education
-- **Bachelor of Engineering in Cyber Security**  
-  Paavai Engineering College, Namakkal  
-  Completed: May 2024 | **CGPA**: 7.55
+<hr>
 
-- **HSC (12th Grade)**  
-  AIM Matriculation Higher Secondary School, Thammampatti  
-  Completed: 2020 | **Marks**: 63.3%
+<div align="center">
+  <h2>Ravindhar V's GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=ravindharcys&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Ravindhar's GitHub stats" />
+  
+  <h2>Most Used Languages</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindharcys&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+</div>
 
-- **SSLC (10th Grade)**  
-  AIM Matriculation Higher Secondary School, Thammampatti  
-  Completed: 2018 | **Marks**: 77.2%
+<hr>
 
-## 🛠️ Projects
-1. **Sentinel-Site (Cyber Forensics Tool)**
-   - Developed a tool for end users to detect system compromises and identify malware.
-   - Automated threat identification and remediation to ensure secure recovery processes.
+<h2>🏆 Certifications</h2>
+<ul>
+  <li>Red Hat Certified System Administrator (2023)</li>
+  <li>Certified AppSec Practitioner (CAP) (2024)</li>
+  <li>Certified Network Security Practitioner (CNSP) (2024)</li>
+  <li>Cybersecurity Specialist (2024)</li>
+  <li>Robotic Process Automation (RPA) (2022)</li>
+  <li>Web Design (2023)</li>
+</ul>
 
-2. **Eco-Inverter (IoT Project)**
-   - Designed a renewable energy solution that generates power from refrigerator waste heat.
-   - Integrated IoT to control home circuits, producing 240V, 2000W of electricity.
+<h2>🚀 Top Projects</h2>
 
-3. **Password Authenticator**
-   - Developed a biometric-based password manager, eliminating password fatigue for users.
+<div align="center">
+  <a href="https://github.com/ravindharcys/sentinel-site">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravindharcys&repo=sentinel-site&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/ravindharcys/eco-inverter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravindharcys&repo=eco-inverter&theme=radical&hide_border=true" />
+  </a>
+</div>
 
-## 💼 Internships
-- **Web Design Intern**  
-  Asia University, Taiwan | Jan 2023 – June 2023  
-  - Developed responsive websites and optimized them for security and performance.
-  - Assisted in creating user-friendly web interfaces.
+<h3>🔐 Sentinel-Site (Cyber Forensics Tool)</h3>
+<ul>
+  <li>Developed a tool for end users to detect system compromises and identify malware</li>
+  <li>Automated threat identification and remediation to ensure secure recovery processes</li>
+</ul>
 
-## 📜 Certifications
-- Web Design - 2023
-- Red Hat Certified System Administrator - 2023
-- Robotic Process Automation (RPA) - 2022
-- Certified AppSec Practitioner (CAP) - 2024
-- Certified Network Security Practitioner (CNSP) – 2024
-- Cybersecurity Specialist - 2024
+<h3>⚡ Eco-Inverter (IoT Project)</h3>
+<ul>
+  <li>Designed a renewable energy solution that generates power from refrigerator waste heat</li>
+  <li>Integrated IoT to control home circuits, producing 240V, 2000W of electricity</li>
+</ul>
 
+<h3>🔑 Password Authenticator</h3>
+<ul>
+  <li>Developed a biometric-based password manager, eliminating password fatigue for users</li>
+</ul>
 
-## 🌐 Connect with Me
-- **Portfolio**: [https://ravindharcys.github.io/Portfolio](https://ravindharcys.github.io/Portfolio)
-- **LinkedIn**: [linkedin.com/in/ravindhar-cy](https://linkedin.com/in/ravindhar-cy)
-- **Email**: ravindhar.upm@gmail.com
+<hr>
 
-Feel free to explore my portfolio and reach out for collaborations or opportunities! 😊
+<h2>🎓 Education</h2>
+<p>
+  <strong>Bachelor of Engineering in Cyber Security</strong><br>
+  Paavai Engineering College, Namakkal (2024) | CGPA: 7.55
+</p>
+
+<h2>💼 Experience</h2>
+<p>
+  <strong>Web Design Intern</strong><br>
+  Asia University, Taiwan | Jan 2023 – June 2023
+</p>
+<ul>
+  <li>Developed responsive websites and optimized them for security and performance</li>
+  <li>Assisted in creating user-friendly web interfaces</li>
+</ul>
+
+<hr>
+
+<h2>🌐 Connect with Me</h2>
+
+<div align="center">
+  <a href="https://ravindharcys.github.io/Portfolio">
+    <img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ravindhar-cy">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ravindhar.upm@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<hr>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ravindharcys&color=blueviolet&style=flat-square&label=Profile+Views" />
+</div>
+
+<!-- Optional: Add a footer with a quote or message -->
+<div align="center">
+  <br>
+  <p><em>"Security is not a product, but a process." — Bruce Schneier</em></p>
+</div>
