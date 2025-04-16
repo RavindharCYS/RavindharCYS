@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/RavindharCYS/Portfolio/blob/main/assets/Profile.JPG" alt="Ravindhar V - Cybersecurity Engineer" width="100%">
+  <img src="https://github.com/RavindharCYS/Portfolio/blob/main/assets/Profile.JPG" alt="Ravindhar V - Cybersecurity Engineer" width="50%">
 </div>
 
 <div align="center">
