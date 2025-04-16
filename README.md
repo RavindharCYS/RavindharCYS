@@ -166,41 +166,41 @@
 </h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🎓 EDUCATION</h3>
-        <p align="center"><b>Bachelor of Engineering in Cyber Security</b><br>
-        Paavai Engineering College, Namakkal<br>
-        Expected Graduation: May 2024 | CGPA: 7.55</p>
-        
-        <p align="center"><b>HSC (12th Grade)</b><br>
-        AIM Matriculation Higher Secondary School<br>
-        2020 | Percentage: 63.3%</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">💼 EXPERIENCE</h3>
-        <p align="center"><b>Cybersecurity Specialist</b><br>
-        NIIT, Chennai | June – December 2024</p>
-        <ul>
-          <li>Linux System Administration Advanced</li>
-          <li>Programming and Scripting in Python</li>
-          <li>Network Security and TCP/IP</li>
-          <li>Ethical Hacking & Penetration Testing</li>
-          <li>Cloud Computing and Containerization</li>
-        </ul>
-        
-        <p align="center"><b>Web Design Intern</b><br>
-        Asia University, Taiwan | January 2023 – June 2023</p>
-        <ul>
-          <li>Developed responsive and secure websites</li>
-          <li>Implemented security best practices</li>
-          <li>Created user-friendly interfaces</li>
-          <li>Optimized website performance</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🎓 EDUCATION</h3>
+<p align="center"><b>Bachelor of Engineering in Cyber Security</b><br>
+Paavai Engineering College, Namakkal<br>
+Expected Graduation: May 2024 | CGPA: 7.55</p>
+
+<p align="center"><b>HSC (12th Grade)</b><br>
+AIM Matriculation Higher Secondary School<br>
+2020 | Percentage: 63.3%</p>
+</td>
+<td width="50%">
+<h3 align="center">💼 EXPERIENCE</h3>
+<p align="center"><b>Cybersecurity Specialist</b><br>
+NIIT, Chennai | June – December 2024</p>
+<ul>
+<li>Linux System Administration Advanced</li>
+<li>Programming and Scripting in Python</li>
+<li>Network Security and TCP/IP</li>
+<li>Ethical Hacking & Penetration Testing</li>
+<li>Cloud Computing and Containerization</li>
+</ul>
+
+<p align="center"><b>Web Design Intern</b><br>
+Asia University, Taiwan | January 2023 – June 2023</p>
+<ul>
+<li>Developed responsive and secure websites</li>
+<li>Implemented security best practices</li>
+<li>Created user-friendly interfaces</li>
+<li>Optimized website performance</li>
+</ul>
+</td>
+</tr>
+</table>
 </div>
 
 <!-- Matrix-style animated banner -->
