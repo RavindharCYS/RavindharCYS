@@ -154,9 +154,9 @@
           </div>
         </td>
         <td width="50%">
-          <h3 align="center">Ecolyfe.site</h3>
+          <h3 align="center">successmeetsacademy.com</h3>
           <div align="center">
-            <a href="https://ecolyfe.site/" target="_blank">
+            <a href="https://successmeetsacademy.com/" target="_blank">
               <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravindharcys&repo=ecolyfe&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6" alt="Ecolyfe.site" />
             </a>
             <p>
