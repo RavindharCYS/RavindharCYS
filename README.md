@@ -1,257 +1,315 @@
 <div align="center">
-  <img src="https://github.com/RavindharCYS/Portfolio/blob/main/assets/Profile.JPG" alt="Ravindhar V - Cybersecurity Engineer" width="25%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:00FFFF&height=200&section=header&text=RAVINDHAR%20V&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CYBERSECURITY%20ENGINEER&descSize=30&descAlignY=60&descAlign=50" width="100%">
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer;Penetration+Tester;Security+Researcher;Web+Developer" alt="Typing SVG" />
-</div>
-
+<!-- Matrix-style animated banner -->
 <p align="center">
-  <a href="https://ravindharcys.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-64FFDA?style=for-the-badge&logo=googlehome&logoColor=black" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/ravindhar-cy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ravindhar.upm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/RavindharCYS" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ravindharcys&style=for-the-badge&color=64FFDA&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=PENETRATION+TESTING+SPECIALIST;NETWORK+SECURITY+EXPERT;WEB+SECURITY+RESEARCHER;DIGITAL+FORTRESS+BUILDER" alt="Typing SVG" />
 </div>
 
-<br>
+<!-- Neon Social Links -->
+<div align="center">
+  <a href="https://ravindharcys.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2300FFFF.svg?&style=for-the-badge&logo=GoogleChrome&logoColor=black" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/ravindhar-cy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%2300FF99.svg?&style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ravindhar.upm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23FF00FF.svg?&style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+  </a>
+  <a href="https://github.com/RavindharCYS" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2300FFFF.svg?&style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
+  </a>
+</div>
 
-<table align="center">
-  <tr>
-    <td>
-      <h2>👨‍💻 About Me</h2>
-      <p>I'm a <b>Cybersecurity Engineer</b> specializing in penetration testing, network security, and IoT solutions. Currently focused on building secure, scalable solutions with my Bachelor's in Cyber Security.</p>
-      <ul>
-        <li>🔭 Working on <b>advanced security tools and forensics applications</b></li>
-        <li>🌱 Learning <b>cloud security and advanced penetration testing techniques</b></li>
-        <li>👯 Looking to collaborate on <b>open-source security projects</b></li>
-        <li>💬 Ask me about <b>cybersecurity, penetration testing, and network security</b></li>
-        <li>📫 Reach me at: <b>ravindhar.upm@gmail.com</b></li>
-        <li>⚡ Fun fact: <b>I love building IoT solutions that combine security with sustainability</b></li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ravindharcys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6" alt="Ravindhar's GitHub stats" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindharcys&theme=tokyonight&hide_border=true&background=0a192f&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakNum=ccd6f6&sideNums=ccd6f6&currStreakLabel=64ffda&sideLabels=64ffda&dates=ccd6f6" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ravindharcys&style=for-the-badge&color=00FF99&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
 
-<h2 align="center">🛠️ Technical Skills</h2>
+<!-- Matrix-style animated banner -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
-<details open>
-  <summary><b>Programming & Development</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  </p>
-</details>
+<!-- About Me Section with Neon Styling -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="40px" height="40px">
+  <span style="color:#00FF99;">ABOUT ME</span>
+</h2>
 
-<details open>
-  <summary><b>Security Tools & Frameworks</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/Burp_Suite-FF6347?style=for-the-badge&logo=burp-suite&logoColor=white" />
-    <img src="https://img.shields.io/badge/John_the_Ripper-7D4698?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Hydra-43B02A?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/OWASP_ZAP-58B535?style=for-the-badge&logo=owasp&logoColor=white" />
-    <img src="https://img.shields.io/badge/Nmap-5391FE?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Wazuh-1E88E5?style=for-the-badge" />
-  </p>
-</details>
+<div align="center">
+  <table border="0" style="border-collapse: collapse; width: 100%; background-color: transparent;">
+    <tr style="border: none;">
+      <td width="60%" style="border: none;">
+        <div align="left">
+          <p style="font-size: 16px;">I'm a <b style="color: #00FFFF;">Cybersecurity Engineer</b> specializing in penetration testing, network security, and IoT solutions.</p>
+          <ul>
+            <li>🔐 <b style="color: #00FF99;">Working on</b> advanced security tools and forensics applications</li>
+            <li>🛡️ <b style="color: #00FF99;">Learning</b> cloud security and advanced penetration testing techniques</li>
+            <li>🔍 <b style="color: #00FF99;">Collaborating on</b> open-source security projects</li>
+            <li>💻 <b style="color: #00FF99;">Expertise in</b> cybersecurity, penetration testing, and network security</li>
+            <li>📧 <b style="color: #00FF99;">Contact me at:</b> ravindhar.upm@gmail.com</li>
+            <li>⚡ <b style="color: #00FF99;">Fun fact:</b> I build IoT solutions that combine security with sustainability</li>
+          </ul>
+        </div>
+      </td>
+      <td width="40%" style="border: none;">
+        <div align="center">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM0OTI1MzQzNjI5MzQ3NzM0OTI1MzQzNjI5MzQ3NzM0OTI1MzQzNjI5MzQ3NzM0OTI1MzQzNjI5MzQ3/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200" style="border-radius: 10px; border: 2px solid #00FF99; box-shadow: 0 0 15px #00FF99;">
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<details>
-  <summary><b>Operating Systems & Cloud</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Hyper_V-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" />
-  </p>
-</details>
+<!-- Matrix-style animated banner -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<!-- Tech Stack with Neon Glow -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="40px" height="40px">
+  <span style="color:#00FFFF;">TECH ARSENAL</span>
+</h2>
 
-<div class="projects-container">
-  <div align="center">
-    <table>
-      <tr>
-        <td width="50%">
-          <h3 align="center">Auto Pentest Tool</h3>
-          <div align="center">
-            <a href="https://github.com/RavindharCYS/Auto_PenTest_Tool" target="_blank">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravindharcys&repo=Auto_PenTest_Tool&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6" alt="Auto Pentest Tool" />
-            </a>
-            <p>
-              <a href="https://github.com/RavindharCYS/Auto_PenTest_Tool" target="_blank">
-                <img src="https://img.shields.io/badge/Code-0a192f?style=for-the-badge&logo=github&logoColor=64ffda" />
-              </a>
-              <a href="https://github.com/RavindharCYS/Auto_PenTest_Tool" target="_blank">
-                <img src="https://img.shields.io/badge/Demo-0a192f?style=for-the-badge&logo=youtube&logoColor=64ffda" />
-              </a>
-            </p>
-            <p><strong>Python, Security, Analysis</strong> - Automated penetration testing framework for security professionals.</p>
-          </div>
-        </td>
-        <td width="50%">
-          <h3 align="center">Web Pentest Automation</h3>
-          <div align="center">
-            <a href="https://github.com/RavindharCYS/Web_PenTest_Automation" target="_blank">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravindharcys&repo=Web_PenTest_Automation&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6" alt="Web Pentest Automation" />
-            </a>
-            <p>
-              <a href="https://github.com/RavindharCYS/Web_PenTest_Automation" target="_blank">
-                <img src="https://img.shields.io/badge/Code-0a192f?style=for-the-badge&logo=github&logoColor=64ffda" />
-              </a>
-              <a href="https://github.com/RavindharCYS/Web_PenTest_Automation" target="_blank">
-                <img src="https://img.shields.io/badge/Demo-0a192f?style=for-the-badge&logo=youtube&logoColor=64ffda" />
-              </a>
-            </p>
-            <p><strong>Java, Security, Automation</strong> - Web application security testing automation tool.</p>
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td width="50%">
-          <h3 align="center">Malware Detection Using ML</h3>
-          <div align="center">
-            <a href="https://github.com/RavindharCYS/Malware-Detection-Using-ML" target="_blank">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravindharcys&repo=Malware-Detection-Using-ML&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6" alt="Malware Detection Using ML" />
-            </a>
-            <p>
-              <a href="https://github.com/RavindharCYS/Malware-Detection-Using-ML" target="_blank">
-                <img src="https://img.shields.io/badge/Code-0a192f?style=for-the-badge&logo=github&logoColor=64ffda" />
-              </a>
-              <a href="https://github.com/RavindharCYS/Malware-Detection-Using-ML" target="_blank">
-                <img src="https://img.shields.io/badge/Demo-0a192f?style=for-the-badge&logo=youtube&logoColor=64ffda" />
-              </a>
-            </p>
-            <p><strong>Python, Security, Machine Learning</strong> - Machine learning-based malware detection system.</p>
-          </div>
-        </td>
-        <td width="50%">
-          <h3 align="center">successmeetsacademy.com</h3>
-          <div align="center">
-            <a href="https://successmeetsacademy.com/" target="_blank">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravindharcys&repo=ecolyfe&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6" alt="Ecolyfe.site" />
-            </a>
-            <p>
-              <a href="https://github.com/RavindharCYS/ecolyfe" target="_blank">
-                <img src="https://img.shields.io/badge/Code-0a192f?style=for-the-badge&logo=github&logoColor=64ffda" />
-              </a>
-              <a href="https://ecolyfe.site/" target="_blank">
-                <img src="https://img.shields.io/badge/Live-0a192f?style=for-the-badge&logo=vercel&logoColor=64ffda" />
-              </a>
-            </p>
-            <p><strong>HTML/CSS, JavaScript, React</strong> - Environmental awareness platform.</p>
-          </div>
-        </td>
-      </tr>
-    </table>
+<div align="center" style="margin: 20px 0;">
+  <div style="display: inline-block; background-color: rgba(0, 255, 153, 0.1); border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 0 10px #00FF99;">
+    <h3 style="color:#00FFFF; margin-bottom: 15px;">Programming & Development</h3>
+    <p>
+      <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,php,mysql&theme=dark" />
+    </p>
+  </div>
+  
+  <div style="display: inline-block; background-color: rgba(0, 255, 255, 0.1); border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 0 10px #00FFFF;">
+    <h3 style="color:#00FF99; margin-bottom: 15px;">Security Tools & Frameworks</h3>
+    <p>
+      <img src="https://img.shields.io/badge/Wireshark-%2300FFFF.svg?style=for-the-badge&logo=wireshark&logoColor=black" />
+      <img src="https://img.shields.io/badge/Metasploit-%2300FF99.svg?style=for-the-badge&logo=metasploit&logoColor=black" />
+      <img src="https://img.shields.io/badge/Burp_Suite-%23FF00FF.svg?style=for-the-badge&logo=burp-suite&logoColor=black" />
+      <img src="https://img.shields.io/badge/OWASP_ZAP-%2300FFFF.svg?style=for-the-badge&logo=owasp&logoColor=black" />
+    </p>
+  </div>
+  
+  <div style="display: inline-block; background-color: rgba(255, 0, 255, 0.1); border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 0 10px #FF00FF;">
+    <h3 style="color:#00FFFF; margin-bottom: 15px;">Operating Systems & Cloud</h3>
+    <p>
+      <img src="https://img.shields.io/badge/Kali_Linux-%2300FF99.svg?style=for-the-badge&logo=kali-linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Ubuntu-%23FF00FF.svg?style=for-the-badge&logo=ubuntu&logoColor=black" />
+      <img src="https://img.shields.io/badge/Windows-%2300FFFF.svg?style=for-the-badge&logo=windows&logoColor=black" />
+      <img src="https://img.shields.io/badge/AWS-%2300FF99.svg?style=for-the-badge&logo=amazon-aws&logoColor=black" />
+    </p>
   </div>
 </div>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<!-- Matrix-style animated banner -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<!-- GitHub Stats with Neon Theme -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40px" height="40px">
+  <span style="color:#FF00FF;">GITHUB STATS</span>
+</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ravindharcys&theme=nord&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" width="100%" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindharcys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindharcys&theme=radical&hide_border=true&background=0D1117&stroke=00FF99&ring=00FFFF&fire=FF00FF&currStreakNum=FFFFFF&sideNums=00FF99&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
-<h2 align="center">🎓 Education & Experience</h2>
-
 <div align="center">
-  <table>
-    <tr>
-      <th>Education</th>
-      <th>Experience</th>
-    </tr>
-    <tr>
-      <td>
-        <b>Bachelor of Engineering in Cyber Security</b><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ravindharcys&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF" alt="Ravindhar's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindharcys&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=FFFFFF" alt="Top Languages" />
+</div>
+
+<!-- Matrix-style animated banner -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<!-- Featured Projects with Neon Glow -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="40px" height="40px">
+  <span style="color:#00FFFF;">FEATURED PROJECTS</span>
+</h2>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <!-- Project 1 -->
+  <div style="width: 45%; min-width: 300px; background-color: rgba(0, 255, 153, 0.1); border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 0 0 15px #00FF99;">
+    <h3 style="color:#00FFFF;">Auto Pentest Tool</h3>
+    <p style="margin-bottom: 15px;">Automated penetration testing framework for security professionals. Streamlines security assessments with powerful scanning and exploitation capabilities.</p>
+    <p>
+      <img src="https://img.shields.io/badge/Python-%2300FF99.svg?style=for-the-badge&logo=python&logoColor=black" />
+      <img src="https://img.shields.io/badge/Security-%2300FFFF.svg?style=for-the-badge&logo=shield&logoColor=black" />
+    </p>
+    <div style="margin-top: 15px;">
+      <a href="https://github.com/RavindharCYS/Auto_PenTest_Tool" target="_blank">
+        <img src="https://img.shields.io/badge/View_Code-%23FF00FF.svg?style=for-the-badge&logo=github&logoColor=black" />
+      </a>
+    </div>
+  </div>
+  
+  <!-- Project 2 -->
+  <div style="width: 45%; min-width: 300px; background-color: rgba(0, 255, 255, 0.1); border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 0 0 15px #00FFFF;">
+    <h3 style="color:#00FF99;">Web Pentest Automation</h3>
+    <p style="margin-bottom: 15px;">Web application security testing automation tool. Identifies vulnerabilities in web applications with comprehensive reporting features.</p>
+    <p>
+      <img src="https://img.shields.io/badge/Java-%2300FFFF.svg?style=for-the-badge&logo=java&logoColor=black" />
+      <img src="https://img.shields.io/badge/Security-%23FF00FF.svg?style=for-the-badge&logo=shield&logoColor=black" />
+    </p>
+    <div style="margin-top: 15px;">
+      <a href="https://github.com/RavindharCYS/Web_PenTest_Automation" target="_blank">
+        <img src="https://img.shields.io/badge/View_Code-%2300FF99.svg?style=for-the-badge&logo=github&logoColor=black" />
+      </a>
+    </div>
+  </div>
+  
+  <!-- Project 3 -->
+  <div style="width: 45%; min-width: 300px; background-color: rgba(255, 0, 255, 0.1); border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 0 0 15px #FF00FF;">
+    <h3 style="color:#00FFFF;">Malware Detection Using ML</h3>
+    <p style="margin-bottom: 15px;">Machine learning-based malware detection system. Uses advanced algorithms to identify and classify malicious software with high accuracy.</p>
+    <p>
+      <img src="https://img.shields.io/badge/Python-%23FF00FF.svg?style=for-the-badge&logo=python&logoColor=black" />
+      <img src="https://img.shields.io/badge/ML-%2300FF99.svg?style=for-the-badge&logo=tensorflow&logoColor=black" />
+    </p>
+    <div style="margin-top: 15px;">
+      <a href="https://github.com/RavindharCYS/Malware-Detection-Using-ML" target="_blank">
+        <img src="https://img.shields.io/badge/View_Code-%2300FFFF.svg?style=for-the-badge&logo=github&logoColor=black" />
+      </a>
+    </div>
+  </div>
+  
+  <!-- Project 4 -->
+  <div style="width: 45%; min-width: 300px; background-color: rgba(0, 255, 153, 0.1); border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 0 0 15px #00FF99;">
+    <h3 style="color:#00FFFF;">Success Meets Academy</h3>
+    <p style="margin-bottom: 15px;">Professional educational platform for career development. Features interactive courses, mentorship programs, and career resources.</p>
+    <p>
+      <img src="https://img.shields.io/badge/HTML/CSS-%2300FFFF.svg?style=for-the-badge&logo=html5&logoColor=black" />
+      <img src="https://img.shields.io/badge/JavaScript-%23FF00FF.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/PHP-%2300FF99.svg?style=for-the-badge&logo=php&logoColor=black" />
+    </p>
+    <div style="margin-top: 15px;">
+      <a href="https://github.com/RavindharCYS/Academy" target="_blank">
+        <img src="https://img.shields.io/badge/View_Code-%2300FFFF.svg?style=for-the-badge&logo=github&logoColor=black" />
+      </a>
+      <a href="https://successmeetsacademy.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-%23FF00FF.svg?style=for-the-badge&logo=vercel&logoColor=black" />
+      </a>
+    </div>
+  </div>
+</div>
+
+<!-- Matrix-style animated banner -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<!-- Education & Experience with Neon Glow -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="40px" height="40px">
+  <span style="color:#FF00FF;">EDUCATION & EXPERIENCE</span>
+</h2>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <!-- Education -->
+  <div style="width: 45%; min-width: 300px; background-color: rgba(0, 255, 255, 0.1); border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 0 0 15px #00FFFF;">
+    <h3 style="color:#00FF99;">🎓 EDUCATION</h3>
+    <div style="text-align: left; margin-top: 15px;">
+      <p style="margin-bottom: 10px;">
+        <span style="color:#FF00FF; font-weight: bold;">Bachelor of Engineering in Cyber Security</span><br>
         Paavai Engineering College, Namakkal<br>
         Expected Graduation: May 2024 | CGPA: 7.55
-      </td>
-      <td>
-        <b>Cybersecurity Specialist</b><br>
-        NIIT, Chennai | June – December 2024<br>
-        <ul>
-          <li>Linux System Administration</li>
-          <li>Python Programming</li>
-          <li>Network Security</li>
-          <li>Ethical Hacking</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>HSC (12th Grade)</b><br>
+      </p>
+      <p>
+        <span style="color:#FF00FF; font-weight: bold;">HSC (12th Grade)</span><br>
         AIM Matriculation Higher Secondary School<br>
         2020 | Percentage: 63.3%
-      </td>
-      <td>
-        <b>Web Design Intern</b><br>
-        Asia University, Taiwan | January 2023 – June 2023<br>
-        <ul>
-          <li>Developed responsive websites</li>
-          <li>Implemented security best practices</li>
-          <li>Created user-friendly interfaces</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+      </p>
+    </div>
+  </div>
+  
+  <!-- Experience -->
+<div style="width: 45%; min-width: 300px; background-color: rgba(255, 0, 255, 0.1); border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 0 0 15px #FF00FF;">
+  <h3 style="color:#00FFFF;">💼 EXPERIENCE</h3>
+  <div style="text-align: left; margin-top: 15px;">
+    <p style="margin-bottom: 10px;">
+      <span style="color:#00FF99; font-weight: bold;">Cybersecurity Specialist</span><br>
+      NIIT, Chennai | June – December 2024
+    </p>
+    <ul style="list-style-type: none; padding-left: 5px; margin-bottom: 15px;">
+      <li>• <span style="color:#00FFFF;">Linux System Administration Advanced</span></li>
+      <li>• <span style="color:#00FFFF;">Programming and Scripting in Python</span></li>
+      <li>• <span style="color:#00FFFF;">Network Security and TCP/IP</span></li>
+      <li>• <span style="color:#00FFFF;">Ethical Hacking & Penetration Testing</span></li>
+      <li>• <span style="color:#00FFFF;">Cloud Computing and Containerization</span></li>
+    </ul>
+    
+    <p style="margin-bottom: 10px;">
+      <span style="color:#00FF99; font-weight: bold;">Web Design Intern</span><br>
+      Asia University, Taiwan | January 2023 – June 2023
+    </p>
+    <ul style="list-style-type: none; padding-left: 5px;">
+      <li>• <span style="color:#00FFFF;">Developed responsive and secure websites</span></li>
+      <li>• <span style="color:#00FFFF;">Implemented security best practices</span></li>
+      <li>• <span style="color:#00FFFF;">Created user-friendly interfaces</span></li>
+      <li>• <span style="color:#00FFFF;">Optimized website performance</span></li>
+    </ul>
+  </div>
+</div>
 </div>
 
-<h2 align="center">🏆 Certifications</h2>
+<!-- Matrix-style animated banner -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Red_Hat_Certified_System_Administrator-EE0000?style=for-the-badge&logo=red-hat&logoColor=white" /></td>
-      <td><img src="https://img.shields.io/badge/Certified_AppSec_Practitioner-006400?style=for-the-badge&logo=owasp&logoColor=white" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Certified_Network_Security_Practitioner-1E90FF?style=for-the-badge&logo=cisco&logoColor=white" /></td>
-      <td><img src="https://img.shields.io/badge/Cybersecurity_Specialist-4B0082?style=for-the-badge&logo=hackerone&logoColor=white" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Robotic_Process_Automation-0066CC?style=for-the-badge&logo=uipath&logoColor=white" /></td>
-      <td><img src="https://img.shields.io/badge/Web_Design-FF6C37?style=for-the-badge&logo=figma&logoColor=white" /></td>
-    </tr>
-  </table>
+<!-- Certifications with Neon Glow -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3oKIPtjEDeyPXMaIfu/giphy.gif" width="40px" height="40px">
+  <span style="color:#00FF99;">CERTIFICATIONS</span>
+</h2>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 30px;">
+  <div style="background-color: rgba(0, 255, 153, 0.1); border-radius: 10px; padding: 15px; box-shadow: 0 0 15px #00FF99; transition: transform 0.3s ease;">
+    <img src="https://img.shields.io/badge/Red_Hat_Certified_System_Administrator-%2300FF99.svg?style=for-the-badge&logo=red-hat&logoColor=black" />
+  </div>
+  
+  <div style="background-color: rgba(0, 255, 255, 0.1); border-radius: 10px; padding: 15px; box-shadow: 0 0 15px #00FFFF; transition: transform 0.3s ease;">
+    <img src="https://img.shields.io/badge/Certified_AppSec_Practitioner-%2300FFFF.svg?style=for-the-badge&logo=owasp&logoColor=black" />
+  </div>
+  
+  <div style="background-color: rgba(255, 0, 255, 0.1); border-radius: 10px; padding: 15px; box-shadow: 0 0 15px #FF00FF; transition: transform 0.3s ease;">
+    <img src="https://img.shields.io/badge/Certified_Network_Security_Practitioner-%23FF00FF.svg?style=for-the-badge&logo=cisco&logoColor=black" />
+  </div>
+  
+  <div style="background-color: rgba(0, 255, 153, 0.1); border-radius: 10px; padding: 15px; box-shadow: 0 0 15px #00FF99; transition: transform 0.3s ease;">
+    <img src="https://img.shields.io/badge/Cybersecurity_Specialist-%2300FF99.svg?style=for-the-badge&logo=hackerone&logoColor=black" />
+  </div>
+  
+  <div style="background-color: rgba(0, 255, 255, 0.1); border-radius: 10px; padding: 15px; box-shadow: 0 0 15px #00FFFF; transition: transform 0.3s ease;">
+    <img src="https://img.shields.io/badge/Robotic_Process_Automation-%2300FFFF.svg?style=for-the-badge&logo=uipath&logoColor=black" />
+  </div>
+  
+  <div style="background-color: rgba(255, 0, 255, 0.1); border-radius: 10px; padding: 15px; box-shadow: 0 0 15px #FF00FF; transition: transform 0.3s ease;">
+    <img src="https://img.shields.io/badge/Web_Design-%23FF00FF.svg?style=for-the-badge&logo=figma&logoColor=black" />
+  </div>
 </div>
 
-<br>
+<!-- Matrix-style animated banner -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
+<!-- Footer with Neon Effect -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=64ffda&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:FF00FF,100:00FF99&height=150&section=footer&text=SECURING%20THE%20DIGITAL%20WORLD&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=65" width="100%">
 </div>
 
-<div align="center">
-  <p><em>"Security is not a product, but a process."</em></p>
+<div align="center" style="margin-top: -50px; margin-bottom: 20px;">
+  <p style="color: #00FFFF; font-style: italic; font-size: 18px;">"Security is not a product, but a process."</p>
 </div>
