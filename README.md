@@ -216,50 +216,60 @@
 </h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <!-- Education -->
-  <div style="width: 45%; min-width: 300px; background-color: rgba(0, 255, 255, 0.1); border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 0 0 15px #00FFFF;">
-    <h3 style="color:#00FF99;">🎓 EDUCATION</h3>
-    <div style="text-align: left; margin-top: 15px;">
-      <p style="margin-bottom: 10px;">
-        <span style="color:#FF00FF; font-weight: bold;">Bachelor of Engineering in Cyber Security</span><br>
-        Paavai Engineering College, Namakkal<br>
-        Expected Graduation: May 2024 | CGPA: 7.55
-      </p>
-      <p>
-        <span style="color:#FF00FF; font-weight: bold;">HSC (12th Grade)</span><br>
-        AIM Matriculation Higher Secondary School<br>
-        2020 | Percentage: 63.3%
-      </p>
-    </div>
+  <!-- Education Section -->
+<div style="text-align: center; margin-bottom: 30px;">
+  <h2 style="color: #00FFFF; margin-bottom: 20px;">
+    <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30px" height="30px">
+    EDUCATION
+  </h2>
+  
+  <div style="background-color: rgba(0, 255, 255, 0.1); border-radius: 10px; padding: 20px; margin: 0 auto; max-width: 600px; box-shadow: 0 0 15px #00FFFF;">
+    <p style="margin-bottom: 5px;">
+      <span style="color: #FF00FF; font-weight: bold; font-size: 18px;">Bachelor of Engineering in Cyber Security</span>
+    </p>
+    <p style="margin-bottom: 5px;">Paavai Engineering College, Namakkal</p>
+    <p style="margin-bottom: 15px;">Expected Graduation: May 2024 | CGPA: 7.55</p>
+    
+    <p style="margin-bottom: 5px; margin-top: 20px;">
+      <span style="color: #FF00FF; font-weight: bold; font-size: 18px;">HSC (12th Grade)</span>
+    </p>
+    <p style="margin-bottom: 5px;">AIM Matriculation Higher Secondary School</p>
+    <p>2020 | Percentage: 63.3%</p>
   </div>
+</div>
 
-  <!-- Experience -->
-  <div style="width: 45%; min-width: 300px; background-color: rgba(255, 0, 255, 0.1); border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 0 0 15px #FF00FF;">
-    <h3 style="color:#00FFFF;">💼 EXPERIENCE</h3>
-    <div style="text-align: left; margin-top: 15px;">
-      <p style="margin-bottom: 10px;">
-        <span style="color:#00FF99; font-weight: bold;">Cybersecurity Specialist</span><br>
-        NIIT, Chennai | June – December 2024
-      </p>
-      <ul style="list-style-type: none; padding-left: 5px; margin-bottom: 15px;">
-        <li>• <span style="color:#00FFFF;">Linux System Administration Advanced</span></li>
-        <li>• <span style="color:#00FFFF;">Programming and Scripting in Python</span></li>
-        <li>• <span style="color:#00FFFF;">Network Security and TCP/IP</span></li>
-        <li>• <span style="color:#00FFFF;">Ethical Hacking & Penetration Testing</span></li>
-        <li>• <span style="color:#00FFFF;">Cloud Computing and Containerization</span></li>
-      </ul>
-      
-      <p style="margin-bottom: 10px;">
-        <span style="color:#00FF99; font-weight: bold;">Web Design Intern</span><br>
-        Asia University, Taiwan | January 2023 – June 2023
-      </p>
-      <ul style="list-style-type: none; padding-left: 5px;">
-        <li>• <span style="color:#00FFFF;">Developed responsive and secure websites</span></li>
-        <li>• <span style="color:#00FFFF;">Implemented security best practices</span></li>
-        <li>• <span style="color:#00FFFF;">Created user-friendly interfaces</span></li>
-        <li>• <span style="color:#00FFFF;">Optimized website performance</span></li>
-      </ul>
-    </div>
+<!-- Experience Section -->
+<div style="text-align: center; margin-bottom: 30px;">
+  <h2 style="color: #00FFFF; margin-bottom: 20px;">
+    <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="30px" height="30px">
+    EXPERIENCE
+  </h2>
+  
+  <div style="background-color: rgba(255, 0, 255, 0.1); border-radius: 10px; padding: 20px; margin: 0 auto; max-width: 600px; box-shadow: 0 0 15px #FF00FF;">
+    <p style="margin-bottom: 5px;">
+      <span style="color: #00FF99; font-weight: bold; font-size: 18px;">Cybersecurity Specialist</span>
+    </p>
+    <p style="margin-bottom: 15px;">NIIT, Chennai | June – December 2024</p>
+    
+    <ul style="list-style-type: none; text-align: left; padding-left: 20px; margin-bottom: 20px;">
+      <li style="margin-bottom: 8px;">• <span style="color: #00FFFF;">Linux System Administration Advanced</span></li>
+      <li style="margin-bottom: 8px;">• <span style="color: #00FFFF;">Programming and Scripting in Python</span></li>
+      <li style="margin-bottom: 8px;">• <span style="color: #00FFFF;">Network Security and TCP/IP</span></li>
+      <li style="margin-bottom: 8px;">• <span style="color: #00FFFF;">Ethical Hacking & Penetration Testing</span></li>
+      <li style="margin-bottom: 8px;">• <span style="color: #00FFFF;">Cloud Computing and Containerization</span></li>
+    </ul>
+    
+    <p style="margin-bottom: 5px; margin-top: 20px;">
+      <span style="color: #00FF99; font-weight: bold; font-size: 18px;">Web Design Intern</span>
+    </p>
+    <p style="margin-bottom: 15px;">Asia University, Taiwan | January 2023 – June 2023</p>
+    
+    <ul style="list-style-type: none; text-align: left; padding-left: 20px;">
+      <li style="margin-bottom: 8px;">• <span style="color: #00FFFF;">Developed responsive and secure websites</span></li>
+      <li style="margin-bottom: 8px;">• <span style="color: #00FFFF;">Implemented security best practices</span></li>
+      <li style="margin-bottom: 8px;">• <span style="color: #00FFFF;">Created user-friendly interfaces</span></li>
+      <li style="margin-bottom: 8px;">• <span style="color: #00FFFF;">Optimized website performance</span></li>
+    </ul>
   </div>
 </div>
 
