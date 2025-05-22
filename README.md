@@ -176,6 +176,12 @@
   <img src="https://img.shields.io/badge/Cybersecurity_Specialist-%2300FF99.svg?style=for-the-badge&logo=hackerone&logoColor=black" />
   <img src="https://img.shields.io/badge/Robotic_Process_Automation-%2300FFFF.svg?style=for-the-badge&logo=uipath&logoColor=black" />
   <img src="https://img.shields.io/badge/Web_Design-%23FF00FF.svg?style=for-the-badge&logo=figma&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cisco_Certified_Ethical_Hacker_(2025)-%2300FF99.svg?style=for-the-badge&logo=cisco&logoColor=black" />
+  <img src="https://img.shields.io/badge/Fortinet_Certified_Associate_in_Cybersecurity_(2025)-%2300FFFF.svg?style=for-the-badge&logo=fortinet&logoColor=black" />
+  <img src="https://img.shields.io/badge/Fortinet_FortiGate_7.4_Operator_(2025)-%23FF00FF.svg?style=for-the-badge&logo=fortinet&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google_Cybersecurity_Professional_(2023)-%2300FF99.svg?style=for-the-badge&logo=google&logoColor=black" />
+  <img src="https://img.shields.io/badge/Webpage_Development_Asia_University_(2023)-%2300FFFF.svg?style=for-the-badge&logo=html5&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java_Business_Application_IIT_Bombay_(2022)-%23FF00FF.svg?style=for-the-badge&logo=java&logoColor=black" />
 </div>
 
 <!-- Matrix-style animated banner -->
